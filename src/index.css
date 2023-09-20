@@ -1,0 +1,16 @@
+
+.form-control{
+    font-size: 25px;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.icon{
+margin-left: 90%;
+}
+.navbarheight{
+    height: 100px;
+}
+.no-underline {
+    text-decoration: none;
+  }
